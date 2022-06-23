@@ -74,6 +74,7 @@
 	"loading.test.preset": "Ładowanie predefiniowanego testu {0}",
 	"reading.presets.file": "Odczytywanie predefiniowanego pliku {0}",
 	"failed.to.parse": "Nie można przeanalizować elementu {0}: {1}",
+	"included.presets.file.not.found": "Included presets file {0} cannot be found",
 	"invalid.file.error": "Nieprawidłowa zawartość zestawu {0} ({1}):",
 	"successfully.validated.presets": "Pomyślnie zweryfikowano ustawienia wstępne w {0}",
 	"use.kits.variants": "Użyj zestawów i wariantów",
